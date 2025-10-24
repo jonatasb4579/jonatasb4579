@@ -12,7 +12,7 @@
 </div>
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?jonatasb4579&layout=compact&langs_count=7&theme=dracula"/>
+<a href=https://github.com/jonatasb4579>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasb4579&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?jonatasb4579i&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
