@@ -1,6 +1,7 @@
 ## Hello, Devs!!
 ## My name is Jonaatas Gabriel and my nickname is jonatasb4579!
 
+- 🌱 Atualmente estou aprendendo ...
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 ## Social Media:
