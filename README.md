@@ -1,5 +1,5 @@
 ## Hello, Devs!!
-## My name is Jonaatas Gabriel and my nickname is jonatasb4579!
+## My name is Jonatas Gabriel and my nickname is jonatasb4579!
 -----------------------------------------
 - Passionate about programming, machine learning, and cybersecurity.
 - I am currently learning...
