@@ -60,5 +60,18 @@ Hi, I'm Jonatas Gabriel 👋
 
 </div>
 
+<!-- EDUCATION -->
+
+## 🕯️ Bonfires Lit — Education
+
+| | Course | Status |
+|:---:|:---|:---:|
+| ◈ | BACK-END PYTHON | 🔄 In Progress | ALURA
+| ◈ | PostgreeSQL | 🔄 In Progress |  ALURA
+| ◈ | BACK-END JAVA | ✅ Complete |  ALURA
+| ◈ | GIT & GIT HUB| ✅ Complete |  ALURA
+
+---
+
 
 
