@@ -24,9 +24,7 @@ Hi, I'm Jonatas Gabriel 👋
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
 <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/>
 
-<p align="center">
-  <img src="./banner.jpg" width="100%" alt="Banner">
-</p>
+
 ## Social Media:
 <div>
 <a href=http://www.youtube.com/@JonatasGabriel-om8pb target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
