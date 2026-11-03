@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./jonatas_ramos_github_animado.gif"
+       width="100%"
+       alt="Jonatas Ramos - Engenharia de Software">
+</p>
+
 ## Hello, Devs!!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
 ## My name is Jonatas Gabriel and my nickname is jonatasb4579!
