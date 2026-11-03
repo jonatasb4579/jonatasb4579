@@ -1,13 +1,17 @@
-
+<!-- BANNER -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/bannerjpg.jpg" width="100%" alt="banner"/>
 </div>
 
+<!-- TITLE -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Java+/+SpringBoot;JavaScript+/+NodeJs+/+React;PostgreeSQL+/+MongoDB" alt="Typing SVG"/>
 </div>
 
+<!-- SOCIAL MEDIA-->
 
+<div align="center">
+  
 [![YouTube](https://img.shields.io/badge/YOUTUBE-000000?style=flat-square&logo=youtube&logoColor=D4AF37)](https://www.youtube.com/@JonatasGabriel-om8pb)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=D4AF37)](https://www.instagram.com/jonatasb_pr/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=D4AF37)](https://www.linkedin.com/in/jonatas-gabriel-10a3a7318/)
@@ -24,32 +28,37 @@ Hi, I'm Jonatas Gabriel 👋
 🚀 Passionate about Full Stack Development
 ☁️ Learning Cloud Computing and Software Architecture
 📚 Currently studying Java, Spring Boot and Python
-<div style="display: flex; gap: 15px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/>
-  <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/>
-<img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/>
 
+## Technologies
 
-## Social Media:
-<div>
-<a href=http://www.youtube.com/@JonatasGabriel-om8pb target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href=https://www.instagram.com/jonatasb_pr/social%20media target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@seu-usuário-aqui"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href=https://www.linkedin.com/in/jonatas-gabriel-10a3a7318/ target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=c9a84c)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk&logoColor=c9a84c)
+![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=c9a84c)
+![TypeScript](https://img.shields.io/badge/TypeScript-111?style=for-the-badge&logo=typescript&logoColor=c9a84c)
+![React](https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=c9a84c)
+![Node.js](https://img.shields.io/badge/Node.js-111?style=for-the-badge&logo=nodedotjs&logoColor=c9a84c)
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=c9a84c)
+![MongoDB](https://img.shields.io/badge/MongoDB-111?style=for-the-badge&logo=mongodb&logoColor=c9a84c)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=c9a84c)
+![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=c9a84c)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-111?style=for-the-badge&logo=intellijidea&logoColor=c9a84c)
+
+<!-- STATISTIC -->
+## Statistics
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=jonatasb4579&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=jonatasb4579&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasb4579&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+
 </div>
-
-<div>
-<a href=https://github.com/jonatasb4579>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasb4579&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatasb4579&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-
 
 
 
