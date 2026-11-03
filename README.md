@@ -11,7 +11,7 @@
 [![YouTube](https://img.shields.io/badge/YOUTUBE-000000?style=flat-square&logo=youtube&logoColor=D4AF37)](https://www.youtube.com/@JonatasGabriel-om8pb)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=flat-square&logo=instagram&logoColor=D4AF37)](https://www.instagram.com/jonatasb_pr/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=flat-square&logo=linkedin&logoColor=D4AF37)](https://www.linkedin.com/in/jonatas-gabriel-10a3a7318/)
-[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=flat-square&logo=gmail&logoColor=D4AF37)](jonatasb2007@gmail.com)
+[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=flat-square&logo=gmail&logoColor=D4AF37)](mailto:jonatasb2007@gmail.com)
 
 ## Hello, Devs!!
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
