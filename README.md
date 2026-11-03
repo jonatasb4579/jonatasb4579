@@ -1,4 +1,5 @@
 ## Hello, Devs!!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anton&color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=[=++Welcome,+To+My+Profile!++=])](https://git.io/typing-svg)
 ## My name is Jonatas Gabriel and my nickname is jonatasb4579!
 -----------------------------------------
 Hi, I'm Jonatas Gabriel 👋
