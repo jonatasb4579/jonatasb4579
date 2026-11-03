@@ -1,7 +1,6 @@
-<p align="center">
-  <img src=".github/workflows/duque github (1280 x 320 px).gif" />
-</p>
-</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ladymnria/ladymnria/main/bannerjpg.jpg" width="100%" alt="banner"/>
+</div>
 
 
 ## Hello, Devs!!
