@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="./jonatas_ramos_github_animado.gif"
-       width="100%"
-       alt="Jonatas Ramos - Engenharia de Software">
+  <img
+    src="./jonatas_ramos_github_animado.gif"
+    alt="Jonatas Ramos - Engenharia de Software"
+    width="100%"
+  />
 </p>
 
 ## Hello, Devs!!
